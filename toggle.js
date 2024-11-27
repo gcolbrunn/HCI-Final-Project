@@ -1,4 +1,5 @@
 // Work in progress - Gabe
+//
 
 document.addEventListener('DOMContentLoaded', function () {
     const toggleButton = document.querySelector('.toggle-button');
